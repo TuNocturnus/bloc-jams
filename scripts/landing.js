@@ -1,4 +1,4 @@
-var pointsArray = document.getElementsByClassName('point');
+var pointsArray = document.getElementsByClassName('points');
 
 var revealPoint = function(point) {
     points.style.opacity = 1;
